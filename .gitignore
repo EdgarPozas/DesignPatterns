@@ -1,0 +1,6 @@
+AbstractFactory/*.class
+Adapter/*.class
+Builder/*.class
+Prototype/*.class
+Singleton/*.class
+compile.bat
