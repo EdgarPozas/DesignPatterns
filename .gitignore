@@ -1,6 +1,7 @@
 AbstractFactory/*.class
 Adapter/*.class
 Builder/*.class
+Factory/*.class
 Prototype/*.class
 Singleton/*.class
 compile.bat
